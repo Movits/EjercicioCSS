@@ -1,0 +1,56 @@
+/* Class (varios elementos)
+Id (Un elemento) */
+
+body{
+    background-color: rgb(20, 20, 20);
+    color: whitesmoke;
+}
+
+p{
+    width: 700px;
+    font-size: 15px;
+    font-family: monospace;
+    color: rgb(132, 238, 132);
+}
+
+img{
+    width: 300px;
+}
+
+.p-y-img-1{
+    border: 4px;
+    border-style: solid;
+    border-color: red;
+}
+
+.p-y-img-2{
+    border: 4px;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 400px;
+}
+
+.p-y-img-3{
+    border: 4px;
+    border-style: solid;
+    border-color: green;
+}
+
+.p-y-img-4{
+    border: 4px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 500px;
+}
+
+#p5{
+    border-bottom: 4px;
+    border-style: solid;
+    border-color: grey;
+}
+
+#img5{
+    border: 4px;
+    border-style: dotted;
+    border-color: black;
+}
